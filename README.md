@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad-Sharjeel50
-- 👀 I’m interested in Mern Stack Development
-- 🌱 I’m currently learning Mern Stack
+- 👀 I’m interested in Mern/Mean Development
+- 🌱 I’m currently  Mern/Meank Stack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through mrssage
 
