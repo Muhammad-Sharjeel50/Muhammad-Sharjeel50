@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Muhammad-Sharjeel50
+- 👋 Hi, I’m Muhammad Sharjeel Aijaz
 - 👀 I’m interested in Mern/Mean Development
 - 🌱 I’m currently  Mern/Meank Stack Developer
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me through mrssage
+- 📫 You can reach me through Sharjeelaijaz50@gmail.com
 
 <!---
 Muhammad-Sharjeel50/Muhammad-Sharjeel50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
